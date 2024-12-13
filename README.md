@@ -24,3 +24,5 @@ We’d love to hear your thoughts on how this filter performs or what could be i
 Also we´d love to credit Neversink´s Lite Filter
 
 If you edit and post this Filter please also credit us as well as Neversink.
+
+![image](https://github.com/user-attachments/assets/b52d9b0b-05f4-4334-bf2f-9959460b7b60)

@@ -252,7 +252,7 @@ SetTextColor 188 143 143
 SetBorderColor 188 143 143
 
 Show
-BaseType == "Golden Bracers" "Stocky Mitts" "Riveted Mitts" "Advanced Riveted Mitts" "Advanced Tempered Mitts" "Advanced Bolstered Mitts" "Expert Riveted Mitts" "Expert Bolstered Mitts" "Expert Moulded Mitts"
+BaseType == "Expert Ringmail Gauntlets" "Advanced Ringmail Gauntlets" "Ringmail Gauntlets" "Expert Doubled Gauntlets" "Advanced Doubled Gauntlets" "Doubled Gauntlets" "Expert Layered Gauntlets" "Advanced Layered Gauntlets" "Layered Gauntlets" "Expert Spined Bracers" "Advanced Spined Bracers" "Spined Bracers" "Expert Firm Bracers" "Advanced Firm Bracers" "Firm Bracers" "Expert Sectioned Bracers" "Advanced Sectioned Bracers" "Sectioned Bracers"
 SetTextColor 188 143 143
 SetBorderColor 188 143 143
 

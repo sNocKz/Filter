@@ -28,7 +28,7 @@ SetFontSize 40
 ## Divine Orb Style
 Show
 Class "Currency"
-BaseType "Mirror" "Divine" "Perfect Jeweller's Orb"
+BaseType "Mirror" "Divine" "Perfect Jeweller's Orb" "Greater Jeweller's Orb"
 SetFontSize 45
 SetTextColor 255 0 0 255
 SetBorderColor 255 0 0 255
@@ -122,7 +122,7 @@ PlayEffect Cyan Temp
 # Currency Tier A: Gemcutter, Annullment
 Show
 Class "Currency"
-BaseType "Gemcutter's Prism" "Orb of Annulment" "Orb of Chance" "Exalted Orb"
+BaseType "Gemcutter's Prism" "Orb of Annulment" "Orb of Chance" "Exalted Orb" 
 SetTextColor 255 255 255 255
 SetBorderColor 255 255 255 255
 SetBackgroundColor 240 90 35
@@ -134,7 +134,7 @@ SetFontSize 40
 # Currency Tier B: Vaal, Chaos, Exalt, Exotic
 Show
 Class "Currency"
-BaseType "Vaal Orb" "Greater Jeweller's Orb" "Chaos Orb" "Lesser Jeweller's Orb" "Exotic" "Regal Orb" "Artificer's Orb" "Glassblower's Bauble" "Orb of Alchemy" "Orb of Chance"
+BaseType "Vaal Orb" "Chaos Orb" "Lesser Jeweller's Orb" "Exotic" "Regal Orb" "Artificer's Orb" "Glassblower's Bauble" "Orb of Alchemy" "Orb of Chance"
 SetTextColor 0 0 0
 SetBorderColor 0 0 0
 SetBackgroundColor 205 102 0
